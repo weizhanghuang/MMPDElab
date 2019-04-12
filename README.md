@@ -15,7 +15,8 @@ MMPDElab is a package written in MATLAB for adaptive mesh movement and adaptive 
     
     https://github.com/weizhanghuang/MMPDElab
     
-    You will need to download the directories /examples/ and /src_MMPDElab/ and files contained therein.
+    To run the codes, you can download the whole master branch or at least the directories /examples/
+    and /src_MMPDElab/ and the files contained therein.
     
     Copyright (C) 2019  Weizhang Huang (whuang@ku.edu)
 
