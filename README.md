@@ -8,11 +8,14 @@ MMPDElab is a package written in MATLAB for adaptive mesh movement and adaptive 
     are discretized in space using P1 conforming finite elements on moving meshes and integrated
     in time with the fifth-order Radau IIA method (an implicit Runge-Kutta method) with a two-step
     error estimator for time step selection. An introduction of this package is given
-    in intro_MMPDElab.pdf (arXiv:XXXXX) contained in this distribution.
+    in MMPDElab_Intro_arXiv1904_05535v1.pdf (see https://arxiv.org/abs/1904.05535), which is also
+    contained in this distribution.
     
-    MMPDElab is a package written in MATLAB  for adaptive mesh 
-    movement and adaptive moving mesh P1 finite element solution 
-    of partial different equations having continuous solutions.
+    The source codes can be found at
+    
+    https://github.com/weizhanghuang/MMPDElab
+    
+    You will need to download the directories /examples/ and /src_MMPDElab/ and files contained therein.
     
     Copyright (C) 2019  Weizhang Huang (whuang@ku.edu)
 
